@@ -288,6 +288,7 @@ nav ul li a:hover::after{
  .btn.btn2{
     display: inline-block;
     background: #ff004f;
+    font-size: 20px;
  }
  .contact-right form{
     width: 100%;
@@ -331,7 +332,7 @@ nav .fa-solid.fa-ellipsis-vertical{
         background-image: url(images/phone.png);
     }
     .header-text{
-        margin-top: 60%;
+        margin-top: 90%;
         font-size: 16px;
     }
     .header-text h1{
