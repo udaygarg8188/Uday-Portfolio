@@ -17,6 +17,7 @@ body{
     background-image: url(images/IMG_8156-removebg-preview.png);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 .container{
     padding: 10px 10%;
