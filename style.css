@@ -331,6 +331,7 @@ nav .fa-solid.fa-ellipsis-vertical{
 
     #header{
         background-image: url(images/phone.png);
+        background-attachment: fixed;
     }
     .header-text{
         margin-top: 120%;
